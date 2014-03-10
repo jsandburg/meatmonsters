@@ -1,0 +1,6 @@
+{
+    "name" : "RobotRollCall",
+    "actions" : {
+            "doge":["\\!rollcall"]
+    }
+} 
